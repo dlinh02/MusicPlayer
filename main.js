@@ -35,48 +35,29 @@ const app = {
             image: './assets/img/RoiTaSeNgamPhaoHoaCungNhau.png'
         },
         {
-            name:'Là Anh 3',
-            singer: 'Phạm Lịch',
-            path: './assets/music/LaAnh.mp3',
-            image: './assets/img/LaAnh.png'
+            name:'Vì em chưa bao giờ khóc',
+            singer: 'Hà Nhi',
+            path: './assets/music/ViEmChuaBaoGioKhoc.mp3',
+            image: './assets/img/ViEmChuaBaoGioKhoc.png'
         },
         {
-            name:'Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau 4',
-            singer: 'O.lew',
-            path: './assets/music/RoiTaSeNgamPhaoHoaCungNhau.mp3',
-            image: './assets/img/RoiTaSeNgamPhaoHoaCungNhau.png'
+            name:'Sau này hãy gặp lại nhau khi hoa nở',
+            singer: 'Nguyên Hà',
+            path: './assets/music/SauNayHayGapLaiNhauKhiHoaNo.mp3',
+            image: './assets/img/SauNayHayGapLaiNhauKhiHoaNo.png'
         },
         {
-            name:'Là Anh 5',
-            singer: 'Phạm Lịch',
-            path: './assets/music/LaAnh.mp3',
-            image: './assets/img/LaAnh.png'
+            name:'Rồi người thương cũng hoá người dưng',
+            singer: 'Hiền Hồ',
+            path: './assets/music/RoiNguoiThuongCungHoaNguoiDung.mp3',
+            image: './assets/img/RoiNguoiThuongCungHoaNguoiDung.png'
         },
         {
-            name:'Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau 6',
-            singer: 'O.lew',
-            path: './assets/music/RoiTaSeNgamPhaoHoaCungNhau.mp3',
-            image: './assets/img/RoiTaSeNgamPhaoHoaCungNhau.png'
+            name:'Có Như Không Có',
+            singer: 'Hiền Hồ',
+            path: './assets/music/CoNhuKhongCo.mp3',
+            image: './assets/img/CoNhuKhongCo.png'
         },
-        {
-            name:'Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau 7',
-            singer: 'O.lew',
-            path: './assets/music/RoiTaSeNgamPhaoHoaCungNhau.mp3',
-            image: './assets/img/RoiTaSeNgamPhaoHoaCungNhau.png'
-        },
-        {
-            name:'Là Anh 8',
-            singer: 'Phạm Lịch',
-            path: './assets/music/LaAnh.mp3',
-            image: './assets/img/LaAnh.png'
-        },
-        {
-            name:'Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau 9',
-            singer: 'O.lew',
-            path: './assets/music/RoiTaSeNgamPhaoHoaCungNhau.mp3',
-            image: './assets/img/RoiTaSeNgamPhaoHoaCungNhau.png'
-        },
-        
     ],
 
     render: function () {
